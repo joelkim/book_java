@@ -57,9 +57,11 @@ website:
     search: true
     contents:
       - "index.ipynb"
-      - section: "설치"
+      - section: "개발환경"
         contents:
-        - "install.ipynb"
+        - "devenv/install.ipynb"
+        - "devenv/jshell.ipynb"
       - section: "언어 기초"
         contents:
-        - "language.ipynb"
+        - "lang/forloop.ipynb"
+        - "lang/callarg.ipynb"
