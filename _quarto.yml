@@ -34,9 +34,12 @@ website:
       - section: "개발환경"
         contents:
         - "devenv/install.ipynb"
+        - "devenv/command.ipynb"
         - "devenv/jshell.ipynb"
       - section: "언어"
         contents:
+        - "lang/package.ipynb"
+        - "lang/import.ipynb"
         - "lang/forloop.ipynb"
         - "lang/callarg.ipynb"
       - section: "빌드"
